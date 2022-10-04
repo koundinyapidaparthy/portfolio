@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d482c8d8.css",
+    "main.js": "/static/js/main.69fdb6f9.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/TeslaBig.png": "/static/media/TeslaBig.6636872ccda615332c51.png",
+    "static/media/Physic.png": "/static/media/Physic.99a9333573b1e2b6794c.png",
+    "static/media/Physic2.png": "/static/media/Physic2.f9471a14cb94e4d2125e.png",
+    "static/media/HawaMahel.jpg": "/static/media/HawaMahel.ea9936f36a144e79ca6a.jpg",
+    "static/media/HandWave.gif": "/static/media/HandWave.0a605eaadd8d8c5bd8d8.gif",
+    "static/media/WeatherBig.png": "/static/media/WeatherBig.cff67af4a6b8d27d7aa2.png",
+    "static/media/SpotifyBig.png": "/static/media/SpotifyBig.d3f13bf98ebac86ee2a1.png",
+    "static/media/Travel.jpg": "/static/media/Travel.7fecc90d4bc3f73e5ed5.jpg",
+    "static/media/LOGO1.mp4": "/static/media/LOGO1.3261930c3a79fa0ede63.mp4",
+    "static/media/HawaMahalNight.jpeg": "/static/media/HawaMahalNight.402bffa2101b98c30cf1.jpeg",
+    "static/media/PersonalImage.jpg": "/static/media/PersonalImage.867ca26cd60d439d7c7f.jpg",
+    "static/media/Graphql.png": "/static/media/Graphql.0fed447ce4ed74374bdb.png",
+    "static/media/Css.webp": "/static/media/Css.0c2690a25c4bec03822a.webp",
+    "static/media/Fashion.jpg": "/static/media/Fashion.19e912a76708d2a6d2fb.jpg",
+    "static/media/Html.webp": "/static/media/Html.e46e59769d5b13066c95.webp",
+    "static/media/React.png": "/static/media/React.283bf42c605cfc49cf49.png",
+    "static/media/About.png": "/static/media/About.b495714b7acd46c0334d.png",
+    "static/media/Projects.png": "/static/media/Projects.d9d9f5c14a39551d9c51.png",
+    "static/media/Bhashyam.png": "/static/media/Bhashyam.4bcebc00b66eeb1ab975.png",
+    "static/media/Interest.png": "/static/media/Interest.dc35ec78bbc236199206.png",
+    "static/media/Hornblower.png": "/static/media/Hornblower.84b9f91cc07acbe33572.png",
+    "static/media/Java.png": "/static/media/Java.f5dd86c3ef6ef3f85acf.png",
+    "static/media/LPU.png": "/static/media/LPU.38e71efa88ccf81b0ecb.png",
+    "static/media/Chaitanya.jpeg": "/static/media/Chaitanya.8415c2f54eda49944796.jpeg",
+    "static/media/ExpressJs.png": "/static/media/ExpressJs.b44f5a4b0ab040328aac.png",
+    "index.html": "/index.html",
+    "main.d482c8d8.css.map": "/static/css/main.d482c8d8.css.map",
+    "main.69fdb6f9.js.map": "/static/js/main.69fdb6f9.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d482c8d8.css",
+    "static/js/main.69fdb6f9.js"
+  ]
+}
