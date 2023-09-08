@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.3f4a7916.css",
-    "main.js": "/portfolio/static/js/main.269588b4.js",
+    "main.js": "/portfolio/static/js/main.e2795a9c.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/TeslaBig.png": "/portfolio/static/media/TeslaBig.6636872ccda615332c51.png",
-    "static/media/Physic.png": "/portfolio/static/media/Physic.99a9333573b1e2b6794c.png",
-    "static/media/Physic2.png": "/portfolio/static/media/Physic2.f9471a14cb94e4d2125e.png",
     "static/media/HawaMahel.jpg": "/portfolio/static/media/HawaMahel.ea9936f36a144e79ca6a.jpg",
     "static/media/HandWave.gif": "/portfolio/static/media/HandWave.0a605eaadd8d8c5bd8d8.gif",
     "static/media/WeatherBig.png": "/portfolio/static/media/WeatherBig.cff67af4a6b8d27d7aa2.png",
+    "static/media/Fashion.jpg": "/portfolio/static/media/Fashion.3a4af5ea4afa62a796fd.jpg",
     "static/media/SpotifyBig.png": "/portfolio/static/media/SpotifyBig.d3f13bf98ebac86ee2a1.png",
-    "static/media/Travel.jpg": "/portfolio/static/media/Travel.7fecc90d4bc3f73e5ed5.jpg",
     "static/media/PersonalImage.jpg": "/portfolio/static/media/PersonalImage.43be2dcfe666138a3be0.jpg",
+    "static/media/Travel.jpg": "/portfolio/static/media/Travel.6184e05ad80aa2500b02.jpg",
+    "static/media/physique1.jpg": "/portfolio/static/media/physique1.23543376d5112c62f96f.jpg",
     "static/media/LOGO.mp4": "/portfolio/static/media/LOGO.3261930c3a79fa0ede63.mp4",
+    "static/media/physique2.jpg": "/portfolio/static/media/physique2.e007d73b701df1d915d2.jpg",
     "static/media/HawaMahalNight.jpeg": "/portfolio/static/media/HawaMahalNight.402bffa2101b98c30cf1.jpeg",
     "static/media/Graphql.png": "/portfolio/static/media/Graphql.0fed447ce4ed74374bdb.png",
     "static/media/Css.webp": "/portfolio/static/media/Css.0c2690a25c4bec03822a.webp",
-    "static/media/Fashion.jpg": "/portfolio/static/media/Fashion.19e912a76708d2a6d2fb.jpg",
     "static/media/Html.webp": "/portfolio/static/media/Html.e46e59769d5b13066c95.webp",
     "static/media/React.png": "/portfolio/static/media/React.283bf42c605cfc49cf49.png",
     "static/media/About.png": "/portfolio/static/media/About.b495714b7acd46c0334d.png",
@@ -31,11 +31,11 @@
     "static/media/NextJs.png": "/portfolio/static/media/NextJs.8d64d64843058b1c9a96.png",
     "index.html": "/portfolio/index.html",
     "main.3f4a7916.css.map": "/portfolio/static/css/main.3f4a7916.css.map",
-    "main.269588b4.js.map": "/portfolio/static/js/main.269588b4.js.map",
+    "main.e2795a9c.js.map": "/portfolio/static/js/main.e2795a9c.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3f4a7916.css",
-    "static/js/main.269588b4.js"
+    "static/js/main.e2795a9c.js"
   ]
 }
