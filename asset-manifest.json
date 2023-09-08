@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.3f4a7916.css",
-    "main.js": "/portfolio/static/js/main.55141731.js",
+    "main.js": "/portfolio/static/js/main.269588b4.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/TeslaBig.png": "/portfolio/static/media/TeslaBig.6636872ccda615332c51.png",
     "static/media/Physic.png": "/portfolio/static/media/Physic.99a9333573b1e2b6794c.png",
@@ -11,9 +11,9 @@
     "static/media/WeatherBig.png": "/portfolio/static/media/WeatherBig.cff67af4a6b8d27d7aa2.png",
     "static/media/SpotifyBig.png": "/portfolio/static/media/SpotifyBig.d3f13bf98ebac86ee2a1.png",
     "static/media/Travel.jpg": "/portfolio/static/media/Travel.7fecc90d4bc3f73e5ed5.jpg",
+    "static/media/PersonalImage.jpg": "/portfolio/static/media/PersonalImage.43be2dcfe666138a3be0.jpg",
     "static/media/LOGO.mp4": "/portfolio/static/media/LOGO.3261930c3a79fa0ede63.mp4",
     "static/media/HawaMahalNight.jpeg": "/portfolio/static/media/HawaMahalNight.402bffa2101b98c30cf1.jpeg",
-    "static/media/PersonalImage.jpeg": "/portfolio/static/media/PersonalImage.5bf43d74797bba77fcc4.jpeg",
     "static/media/Graphql.png": "/portfolio/static/media/Graphql.0fed447ce4ed74374bdb.png",
     "static/media/Css.webp": "/portfolio/static/media/Css.0c2690a25c4bec03822a.webp",
     "static/media/Fashion.jpg": "/portfolio/static/media/Fashion.19e912a76708d2a6d2fb.jpg",
@@ -31,11 +31,11 @@
     "static/media/NextJs.png": "/portfolio/static/media/NextJs.8d64d64843058b1c9a96.png",
     "index.html": "/portfolio/index.html",
     "main.3f4a7916.css.map": "/portfolio/static/css/main.3f4a7916.css.map",
-    "main.55141731.js.map": "/portfolio/static/js/main.55141731.js.map",
+    "main.269588b4.js.map": "/portfolio/static/js/main.269588b4.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3f4a7916.css",
-    "static/js/main.55141731.js"
+    "static/js/main.269588b4.js"
   ]
 }
